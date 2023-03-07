@@ -1,0 +1,20 @@
+{
+  "name": "ins_nuxt_lcy",
+  "version": "1.0.0",
+  "description": "This is a fake ins client for lcy prower by nuxt3.",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.2.2"
+  },
+  "volta": {
+    "node": "18.14.2",
+    "npm": "9.5.0"
+  }
+}
